@@ -1,0 +1,22 @@
+{
+  "name": "temperature-cvt",
+  "version": "1.0.0",
+  "description": "A package to convert temperature from one unit to another",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carikan69/temperature-cvt.git"
+  },
+  "author": "carikan69",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carikan69/temperature-cvt/issues"
+  },
+  "homepage": "https://github.com/carikan69/temperature-cvt#readme",
+  "dependencies": {
+    "convert-units": "^2.3.4"
+  }
+}
